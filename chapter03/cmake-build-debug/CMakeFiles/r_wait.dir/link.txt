@@ -1,0 +1,2 @@
+/usr/bin/ar qc libr_wait.a  CMakeFiles/r_wait.dir/r_wait.c.o
+/usr/bin/ranlib libr_wait.a

@@ -1,0 +1,5 @@
+/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter04/cmake-build-debug/CMakeFiles/restart.dir
+/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter04/cmake-build-debug/CMakeFiles/monitorfork.dir
+/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter04/cmake-build-debug/CMakeFiles/copyfile.dir

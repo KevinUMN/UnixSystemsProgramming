@@ -1,0 +1,2 @@
+/usr/bin/ar qc libshowreturnstatus.a  CMakeFiles/showreturnstatus.dir/showreturnstatus.c.o
+/usr/bin/ranlib libshowreturnstatus.a

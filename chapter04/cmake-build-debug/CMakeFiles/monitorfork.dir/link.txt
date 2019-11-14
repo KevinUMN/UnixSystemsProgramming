@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/monitorfork.dir/monitorfork.c.o  -o monitorfork libcopyfile.a librestart.a 

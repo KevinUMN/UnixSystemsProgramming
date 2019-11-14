@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ch3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="showreturnstatus">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/libshowreturnstatus.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 showreturnstatus"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="showreturnstatus/fast">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/libshowreturnstatus.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 showreturnstatus/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="r_wait">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/libr_wait.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 r_wait"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="r_wait/fast">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/libr_wait.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 r_wait/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="showreturnstatustest">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/showreturnstatustest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 showreturnstatustest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="showreturnstatustest/fast">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/showreturnstatustest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 showreturnstatustest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="badprocessID">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/badprocessID" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 badprocessID"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="badprocessID/fast">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/badprocessID" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 badprocessID/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fanwait">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/fanwait" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 fanwait"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fanwait/fast">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/fanwait" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 fanwait/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="restart">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/librestart.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 restart"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="restart/fast">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/librestart.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 restart/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simplechain">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/simplechain" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 simplechain"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simplechain/fast">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/simplechain" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 simplechain/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="parentwaitpid">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/parentwaitpid" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 parentwaitpid"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="parentwaitpid/fast">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/parentwaitpid" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 parentwaitpid/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chainwaitmsg">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/chainwaitmsg" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 chainwaitmsg"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chainwaitmsg/fast">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/chainwaitmsg" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 chainwaitmsg/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fanwaitmsg">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/fanwaitmsg" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 fanwaitmsg"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fanwaitmsg/fast">
+				<Option output="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/fanwaitmsg" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 fanwaitmsg/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/badprocessID.c">
+			<Option target="badprocessID"/>
+		</Unit>
+		<Unit filename="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/chainwaitmsg.c">
+			<Option target="chainwaitmsg"/>
+		</Unit>
+		<Unit filename="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/fanwait.c">
+			<Option target="fanwait"/>
+		</Unit>
+		<Unit filename="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/fanwaitmsg.c">
+			<Option target="fanwaitmsg"/>
+		</Unit>
+		<Unit filename="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/parentwaitpid.c">
+			<Option target="parentwaitpid"/>
+		</Unit>
+		<Unit filename="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/r_wait.c">
+			<Option target="r_wait"/>
+		</Unit>
+		<Unit filename="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/restart.c">
+			<Option target="restart"/>
+		</Unit>
+		<Unit filename="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/restart.h">
+			<Option target="restart"/>
+		</Unit>
+		<Unit filename="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/showreturnstatus.c">
+			<Option target="showreturnstatus"/>
+		</Unit>
+		<Unit filename="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/showreturnstatustest.c">
+			<Option target="showreturnstatustest"/>
+		</Unit>
+		<Unit filename="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/simplechain.c">
+			<Option target="simplechain"/>
+		</Unit>
+		<Unit filename="/home/kevin/c/UNIX_SYSTEM_PROGRAMMING_all/chapter03/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

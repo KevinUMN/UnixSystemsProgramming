@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/fanwait.dir/fanwait.c.o  -o fanwait libr_wait.a 

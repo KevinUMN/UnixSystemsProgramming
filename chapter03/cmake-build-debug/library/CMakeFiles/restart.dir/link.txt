@@ -1,0 +1,2 @@
+/usr/bin/ar qc librestart.a  CMakeFiles/restart.dir/restart.c.o
+/usr/bin/ranlib librestart.a

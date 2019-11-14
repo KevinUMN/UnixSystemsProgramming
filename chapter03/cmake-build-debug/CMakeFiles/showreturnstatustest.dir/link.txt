@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/showreturnstatustest.dir/showreturnstatustest.c.o  -o showreturnstatustest libshowreturnstatus.a libr_wait.a 
